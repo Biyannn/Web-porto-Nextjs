@@ -9,19 +9,19 @@ const contactInfo = [
   {
     icon: <FaEnvelope className="w-6 h-6" />,
     title: "Email",
-    value: "contact@johndoe",
-    link: "mailto:contact@johndoe",
+    value: "ayyubian07@gmail.com",
+    link: "#",
   },
   {
     icon: <FaPhone className="w-6 h-6" />,
     title: "Phone",
-    value: "+62 8979-1234-5678",
-    link: "te;l:+62897912345678",
+    value: "+62 895-2368-9349",
+    link: "#",
   },
   {
     icon: <FaMapMarkedAlt className="w-6 h-6" />,
     title: "Location",
-    value: "Remote Global",
+    value: "Tangerang City, Indonesia",
     link: "#",
   },
 ];
