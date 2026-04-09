@@ -16,9 +16,9 @@ export default function ServiceSection() {
         </div>
         <div data-aos="fade-right" data-aos-delay="100">
           <ServiceCard
-            name="Web and Mobile App"
+            name="Web App"
             icon="/Image/Icons/s2.png"
-            description="Building responsive web apps and cross-platform mobile solutions"
+            description="Building responsive web apps"
           />
         </div>
         <div data-aos="fade-right" data-aos-delay="200">
