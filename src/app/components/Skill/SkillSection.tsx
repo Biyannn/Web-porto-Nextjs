@@ -46,17 +46,17 @@ const skills = [
   {
     name: "Reactjs",
     icon: <DiReact />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Nextjs",
     icon: <RiNextjsFill />,
-    skillLevel: "Advanced",
+    skillLevel: "intermediate",
   },
   {
     name: "Typescript",
     icon: <SiTypescript />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "TailwindCSS",
@@ -71,103 +71,103 @@ const skills = [
   {
     name: "Ant design",
     icon: <SiAntdesign />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "SASS",
     icon: <FaSass />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Nodejs",
     icon: <FaNodeJs />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Expressjs",
     icon: <SiExpress />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Golang",
     icon: <FaGolang />,
-    skillLevel: "Advanced",
+    skillLevel: "Beginner",
   },
   {
     name: "Npm",
     icon: <FaNpm />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Mailtrap/Nodemailer",
     icon: <SiMailtrap />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Dotenv",
     icon: <SiDotenv />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "JSON File Storage",
     icon: <VscJson />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Axios",
     icon: <SiAxios />,
-    skillLevel: "Advanced",
+    skillLevel: "Beginner",
   },
   {
     name: "MySQL",
     icon: <SiMysql />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "PostgreSQL",
     icon: <SiPostgresql />,
-    skillLevel: "Advanced",
+    skillLevel: "Beginner",
   },
   {
     name: "Xampp",
     icon: <SiXampp />,
-    skillLevel: "Advanced",
+    skillLevel: "Beginner",
   },
   {
     name: "Postman",
     icon: <SiPostman />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Github",
     icon: <FaGithub />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
 
   {
     name: "Railway",
     icon: <SiRailway />,
-    skillLevel: "Advanced",
+    skillLevel: "Beginner",
   },
   {
     name: "Vercel",
     icon: <RiVercelFill />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
   {
     name: "Koyeb",
     icon: <SiKoyeb />,
-    skillLevel: "Advanced",
+    skillLevel: "Beginner",
   },
   {
     name: "Figma",
     icon: <FaFigma />,
-    skillLevel: "Advanced",
+    skillLevel: "Beginner",
   },
   {
     name: "Dbeaver",
     icon: <SiDbeaver />,
-    skillLevel: "Advanced",
+    skillLevel: "Intermediate",
   },
 ];
 export default function SkillSection() {
