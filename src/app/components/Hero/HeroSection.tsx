@@ -29,7 +29,7 @@ export default function HeroSection() {
         <div className="w-37.5 h-37.5 relative" data-aos="fade-up">
           <div className="absolute inset-0 rounded-full bg-linear-to-r from-blue-500 to-purple-600 blur-lg animate-pulse opacity-50"></div>
           <Image
-            src="/images/FOTO.jpg"
+            src="/Image/Avatar/FOTO.jpg"
             alt="image"
             className="rounded-full object-cover"
             fill
