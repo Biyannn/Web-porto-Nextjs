@@ -10,28 +10,28 @@ export default function ServiceSection() {
         <div data-aos="fade-right">
           <ServiceCard
             name="UI and UX"
-            icon="/image/Icons/s1.png"
+            icon="/Image/Icons/s1.png"
             description="Designing intuitive interfaces and seamless user experiences"
           />
         </div>
         <div data-aos="fade-right" data-aos-delay="100">
           <ServiceCard
             name="Web and Mobile App"
-            icon="/image/Icons/s2.png"
+            icon="/Image/Icons/s2.png"
             description="Building responsive web apps and cross-platform mobile solutions"
           />
         </div>
         <div data-aos="fade-right" data-aos-delay="200">
           <ServiceCard
             name="Design and Creative"
-            icon="/image/Icons/s3.png"
+            icon="/Image/Icons/s3.png"
             description="Creating unique brand identities and compelling visual designs"
           />
         </div>
         <div data-aos="fade-right" data-aos-delay="300">
           <ServiceCard
             name="Development"
-            icon="/image/Icons/s4.png"
+            icon="/Image/Icons/s4.png"
             description="Full-stack Development with modern frameworks and best practices"
           />
         </div>
