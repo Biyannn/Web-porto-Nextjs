@@ -58,7 +58,7 @@ export default function Navbar() {
           {/* Button */}
           <div className="hidden lg:block">
             <LinkButton
-              href="/documents/CV.pdf"
+              href="/documents/Ayyubian Ar Raufan Dev CV.pdf"
               text="Download CV"
               download
               icon={LuDownload}
